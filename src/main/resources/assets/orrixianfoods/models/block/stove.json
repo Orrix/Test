@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "orrixianfoods:blocks/stovebottom",
+    "up": "orrixianfoods:blocks/stovetop",
+    "north": "orrixianfoods:blocks/stovefront",
+    "east": "orrixianfoods:blocks/stoveside",
+    "south": "orrixianfoods:blocks/stoveside",
+    "west": "orrixianfoods:blocks/stoveside",
+    "particle": "orrixianfoods:blocks/stovebottom"
+  }
+}

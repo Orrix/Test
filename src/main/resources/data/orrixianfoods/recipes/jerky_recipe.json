@@ -1,0 +1,12 @@
+{
+  "group": "orrixianfoods",
+  "type": "minecraft:campfire_cooking",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "minecraft:beef"
+  },
+  "result": {
+    "item": "orrixianfoods:jerky"
+  }
+}

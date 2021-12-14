@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Campfire cooking",
+    "xpReward": 1.0,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "orrixianfoods",
+    "recipeShapeless": false,
+    "campfireCookingInputStack": {
+      "value": "Items.BEEF"
+    },
+    "campfireCookingReturnStack": {
+      "value": "CUSTOM:Jerky"
+    },
+    "name": "jerky_recipe",
+    "namespace": "mod"
+  }
+}

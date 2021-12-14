@@ -1,0 +1,26 @@
+{
+  "group": "orrixianfoods",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:red_mushroom"
+    },
+    "1": {
+      "item": "minecraft:carrot"
+    },
+    "2": {
+      "item": "minecraft:potato"
+    },
+    "4": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "orrixianfoods:miners_delight",
+    "count": 2
+  }
+}

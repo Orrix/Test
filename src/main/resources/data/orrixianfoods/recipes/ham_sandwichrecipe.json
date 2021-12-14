@@ -1,0 +1,26 @@
+{
+  "group": "orrixianfoods",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:porkchop"
+    },
+    "1": {
+      "item": "minecraft:kelp"
+    },
+    "2": {
+      "item": "orrixianfoods:tomato"
+    },
+    "4": {
+      "item": "minecraft:bread"
+    }
+  },
+  "result": {
+    "item": "orrixianfoods:ham_sandwich",
+    "count": 2
+  }
+}
